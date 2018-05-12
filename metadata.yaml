@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25403'
     url: http://www.gutenberg.org/2009/agents/25403
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22550#Old-Mackinaw--13-Or-The-Fortress-of-the-Lakes-and-its-Surroundings
 gutenberg_issued: '2007-09-09'
 gutenberg_type: Text
 identifiers:
